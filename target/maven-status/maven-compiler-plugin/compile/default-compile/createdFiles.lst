@@ -1,0 +1,9 @@
+utils/UiUtils.class
+utils/PropertyReader.class
+pages/ShopPage.class
+utils/EndPoints.class
+pages/BasePage.class
+pages/HeaderPage.class
+utils/WaitUtils.class
+webDriver/Driver.class
+utils/JsonObjectReader.class

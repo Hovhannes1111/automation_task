@@ -1,0 +1,22 @@
+[ {
+  "buildOrder" : 62,
+  "reportUrl" : "http://localhost:8080/job/ui_automation/62/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 6
+  }
+}, {
+  "buildOrder" : 61,
+  "reportUrl" : "http://localhost:8080/job/ui_automation/61/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 7
+  }
+}, {
+  "buildOrder" : 58,
+  "reportUrl" : "http://localhost:8080/job/ui_automation/58/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 162840600
+  }
+} ]

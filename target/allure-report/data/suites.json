@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Testing Google Apps",
+    "children" : [ {
+      "name" : "Smoke",
+      "children" : [ {
+        "name" : "tests.TestShopPage",
+        "children" : [ {
+          "name" : "testShopPageNavigation2",
+          "uid" : "7267b90f943f6a69",
+          "parentUid" : "caccdb35fb71ac73452744a9b7b1517c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1697278174022,
+            "stop" : 1697278174028,
+            "duration" : 6
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "caccdb35fb71ac73452744a9b7b1517c"
+      } ],
+      "uid" : "7aeef672b70befac296010037135a9a7"
+    } ],
+    "uid" : "19dead777776e2e5a93ed602c866da24"
+  } ]
+}

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Oct 14 14:09:34 AMT 2023","Sat Oct 14 14:09:34 AMT 2023","6","Testing Google Apps","Smoke","tests.TestShopPage","tests.TestShopPage","testShopPageNavigation2","testShopPageNavigation2",""

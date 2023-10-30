@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "EPAMYERW007F",
+    "children" : [ {
+      "name" : "33275@EPAMYERW007F.main(1)",
+      "children" : [ {
+        "name" : "testShopPageNavigation2",
+        "uid" : "7267b90f943f6a69",
+        "parentUid" : "9144312ef27e8644edd4fb5d3e4174f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697278174022,
+          "stop" : 1697278174028,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9144312ef27e8644edd4fb5d3e4174f4"
+    } ],
+    "uid" : "4e7a2af7a9e9d0206935a26b564237c6"
+  } ]
+}

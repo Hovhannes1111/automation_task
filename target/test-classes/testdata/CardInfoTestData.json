@@ -1,0 +1,7 @@
+{
+  "nameOnCard": "Test card name",
+  "cardNumber": "1111 1111 1111 1111",
+  "cvc": "111",
+  "expMonth": "09",
+  "expYear": "2030"
+}

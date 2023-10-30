@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7267b90f943f6a69",
+  "name" : "testShopPageNavigation2",
+  "time" : {
+    "start" : 1697278174022,
+    "stop" : 1697278174028,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

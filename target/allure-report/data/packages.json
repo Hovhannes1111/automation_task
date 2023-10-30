@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests.TestShopPage",
+    "children" : [ {
+      "name" : "testShopPageNavigation2",
+      "uid" : "7267b90f943f6a69",
+      "parentUid" : "e3924a3e95f3ecc8248b239fe7efb33b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1697278174022,
+        "stop" : 1697278174028,
+        "duration" : 6
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.TestShopPage"
+  } ]
+}
