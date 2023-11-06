@@ -13,7 +13,7 @@ public class TestArrowButton extends BaseTest {
 
         commonActions.clickOnUpArrow();
 
-        softAssert.assertTrue(homePage.checkThatSlideIsDisplayed(), "Slide is not displayed.");
+        softAssert.assertTrue(homePage.checkSlideTextIsDisplayed(), "Slide text is not displayed.");
     }
 
 }
